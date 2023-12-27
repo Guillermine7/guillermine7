@@ -1,4 +1,4 @@
-<div style="dasplay: flex; justify-content:center; align-item:center">
+<div style="display: flex; justify-content:center; align-items:center">
 <h1> HOLA SOY GUILLE! </h1>
 
 #### *Este es mi perfil :)*
