@@ -1,5 +1,5 @@
 <div style="dsiplay:flex; justify-concent:center; align-item:center">
-# **HOLA SOY GUILLE!**
+#**HOLA SOY GUILLE!**
 
 #### *Este es mi perfil :)*
 [un juego](https://www.minijuegos.com/juego/papas-cheeseria)
