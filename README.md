@@ -1,8 +1,9 @@
-
-# **HOLA SOY GUILLE!**
+<div style="dasplay: flex; justify-content:center; align-item:center">
+<h1> HOLA SOY GUILLE! </h1>
 
 #### *Este es mi perfil :)*
 [un juego](https://www.minijuegos.com/juego/papas-cheeseria)
 
-![toy chikito](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVK4RDAtDQ4JXOvrE7q_A9IIQJKPO6Ru6DjbUFCai83W1m6ZAD1DZ0f4w_7LfvNrPAdFw&usqp=CAU)
+<img src="https://ih1.redbubble.net/image.1958698361.2854/mp,504x498,matte,f8f8f8,t-pad,600x600,f8f8f8.jpg" alt="toy chikito" height="300px">
 
+</div>
